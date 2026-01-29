@@ -107,4 +107,5 @@ A partir das habilidades mapeadas, defini caminhos de monetização alinhados à
 
 Consolidar minha transição para a área de **Ciência de Dados**, atuando com análise de dados aplicada ao negócio, unindo experiência em processos corporativos, sistemas ERP, governança de dados e pensamento analítico.
 
-
+Segue Mapa de Habilidades da DIO com as três etapas respondidas:
+[Mapa de Habilidades Respondido.pdf](https://github.com/user-attachments/files/24947881/Mapa.de.Habilidades.Respondido.pdf)
